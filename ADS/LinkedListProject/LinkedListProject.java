@@ -21,7 +21,6 @@ public class LinkedListProject{
 			new_node.next = start;
 			start = new_node;
 		}
-		//System.out.println("Contact added: " + name + ", " + phone);
 	}
 	
 	
